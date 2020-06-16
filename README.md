@@ -10,3 +10,4 @@ Basic version of media player:
 - you can seek (change current position in seconds) in currently playing file.
 
 Done as test-task for JS dev position by Oksana Vitol, 12.01.2017.
+<br/>demo: https://tuannvbg.github.io/audio-player/index.html
